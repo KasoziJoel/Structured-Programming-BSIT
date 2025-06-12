@@ -29,8 +29,7 @@ elif mark >69<80:
    print("you have B")
 
 
-else:
-   print("Error")    
+
    
 
 
