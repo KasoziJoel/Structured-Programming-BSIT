@@ -1,7 +1,8 @@
-# check if user is eligible to vote
-age = int(input("Please enter your age"))
-if age>=18:
-   print("You are eligible")
-else:
-    print("You are not eligible")
-    
+def sum_of_numbers(a,b):
+    return(a+b)
+print(sum_of_numbers(7,8))
+print(sum_of_numbers(1,2))
+print(sum_of_numbers(-1,-4))
+
+
+
