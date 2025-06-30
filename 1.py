@@ -3,11 +3,11 @@ def main():
 
 for i in range(5):
     print("current nummber:", i)
-        if i % 2 == 0:
-            print("Even number.")
-        else:
-            print("Odd number.")
+if i % 2 == 0:
+    print("Even number.")
+else:
+    print("Odd number.")
     print("Race completed!")
-main():
+main()
     
 
