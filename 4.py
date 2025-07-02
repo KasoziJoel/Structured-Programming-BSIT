@@ -9,7 +9,7 @@ def investigate_scene():
         print("The note reads, 'You need to find the flashlight first'")
 
 def open_safe(code):
-    if code == 4732
+    if code == 4732:
         print("The safe opens, 'revealing a hidden treasure'")
         print("Congratulations! You solved the mystery.")
     else:
